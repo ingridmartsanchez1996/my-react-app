@@ -2,9 +2,9 @@ import './AboutMe.css'
 
 const AboutMe = () => {
     return (
-        <div className='resume--container'>
-            <div className='header'>
-                <img src="../../public/images/me.jpg" alt="Ingrid Martinez" />
+        <div className='header'>
+            <img src="../../public/images/me.jpg" alt="Ingrid Martinez" />
+            <div className='resume--container'>
                 <div>
                     <h3>Ingrid Jeraldin Martinez Sanchez</h3>
                     <p>
@@ -13,14 +13,14 @@ const AboutMe = () => {
                 </div>
             </div>
 
-            <div className='contact'>
+            <div id='contact' className='resume--container'>
                 <h2>Contact information:</h2>
                 <h4>ingridmartsanchez4@gmail.com</h4>
                 <p>Mexico City</p>
                 <p>Age: 27</p>
             </div>
 
-            <div className='skills'>
+            <div id='skills' className='resume--container'>
                 <h2>Skills:</h2>
                 <ul>
                     <li>React</li>
