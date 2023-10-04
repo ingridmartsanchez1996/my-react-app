@@ -1,0 +1,8 @@
+En la consola se instalaron:
+npm install
+npm run dev --> para abrir el host
+
+
+npm install @mui/material @emotion/react @emotio
+npm install @mui/icons-material
+npm install react-router-dom
