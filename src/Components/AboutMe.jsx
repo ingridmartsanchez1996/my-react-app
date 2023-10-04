@@ -6,7 +6,7 @@ const AboutMe = () => {
             <img src="../../public/images/me.jpg" alt="Ingrid Martinez" />
             <div className='resume--container'>
                 <div>
-                    <h3>Ingrid Jeraldin Martinez Sanchez</h3>
+                    <h2>Ingrid Jeraldin Martinez Sanchez</h2>
                     <p>
                         I am a software developer who is always eager to learn new technologies. I am a team player, patient, and organized.
                     </p>
